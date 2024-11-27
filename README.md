@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajendrathalluru
 - 📫 How to reach me
-- rajendrathalluru@gmail.com
+- rajendrathallurucs@gmail.com
 - My Medium Blogs-- https://medium.com/@rajendrathalluru
 
 <!---
