@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rajendrathalluru
-
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me
 - rajendrathalluru@gmail.com
 
