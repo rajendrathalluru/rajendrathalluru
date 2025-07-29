@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rajendrathalluru
-- 📫 How to reach me
+-  Hi, I’m @rajendrathalluru
+-  How to reach me
 - rajendrathallurucs@gmail.com
 - My Medium Blogs-- https://medium.com/@rajendrathalluru
 
